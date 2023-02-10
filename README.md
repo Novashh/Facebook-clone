@@ -1,4 +1,4 @@
-# Facebook Like-clone HTML, Css, Javascript
+# Facebook Like-Clone Html, Css, Javascript
 
 # For Practice only
 
